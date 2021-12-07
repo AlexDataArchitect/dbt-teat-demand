@@ -36,6 +36,6 @@ models:
         marts:
             core:
                 materialized: tabel
-        staginf:
+        staging:
             materialized: view
 
